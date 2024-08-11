@@ -1,4 +1,4 @@
-:wave: Hi there, I'm a Software Engineer who specializes in using frontend technologies to create beautiful and logical things while continuously learning, growing, and sharing.
+:wave: Hi there, I'm a Software Engineer specializing in using frontend technologies to create beautiful and logical things while continuously learning, growing, and sharing.
 
 ### Bio 💁‍♂️
 
@@ -12,7 +12,7 @@ I advocate for initiatives that foster effective collaboration and that simplify
 
 ---
 
-**Languages:** Javascript, Typescript, HTML, CSS
-**Frameworks and libraries:** Angular, React, RXJS, NGRX, Cypress, Storybook, SASS
-**Tools:** VS Code, Bash, GIT, Markdown
-**Methodologies:** RESTful, Automated Testing, CI/CD, OOP, DDD, UI/UX, W3C, Agile, Scrum
+**- Languages:** Javascript, Typescript, HTML, CSS  
+**- Frameworks and libraries:** Angular, React, RXJS, NGRX, Cypress, Storybook, SASS  
+**- Tools:** VS Code, Bash, GIT, Markdown  
+**- Methodologies:** RESTful, Automated Testing, CI/CD, OOP, DDD, UI/UX, W3C, Agile, Scrum  
