@@ -1,4 +1,4 @@
-:wave: Hi there, I'm a Software Engineer specializing in using frontend technologies to create beautiful and logical things while continuously learning, growing, and sharing.
+:wave: Hi there, I'm a Software Engineer specializing in using frontend technologies to create beautiful and useful stuff while continuously learning, growing, and sharing.
 
 ### Bio 💁‍♂️
 
